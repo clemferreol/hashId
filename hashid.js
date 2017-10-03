@@ -71,7 +71,7 @@ function hashId(hash){
   }
 
   if(hash == "--help"){
-    return "----------------------------------------USAGE-----------------------------------Node script.js argument où argument est le hash. Le programme renverra le nom de l'algorithme utilisé. node script.js --list pour afficher l'ensemble des hash connus par l'outil"
+    return "USAGE : Node script.js argument où argument est le hash. Le programme renverra le nom de l'algorithme utilisé. node script.js --list pour afficher l'ensemble des hash connus par l'outil"
   }
 
 
